@@ -1,0 +1,24 @@
+2021-03-26 15:22:22,562 6400 INFO ? openerp: OpenERP version 7.0-20150328
+2021-03-26 15:22:22,562 6400 INFO ? openerp: addons paths: H:\OpenERP 7.0-20150328\server\openerp\addons
+2021-03-26 15:22:22,562 6400 INFO ? openerp: database hostname: localhost
+2021-03-26 15:22:22,562 6400 INFO ? openerp: database port: 5432
+2021-03-26 15:22:22,562 6400 INFO ? openerp: database user: openpg
+2021-03-26 15:22:43,451 6400 WARNING ? openerp.addons.google_docs.google_docs: Please install latest gdata-python-client from http://code.google.com/p/gdata-python-client/downloads/list
+2021-03-26 15:22:50,592 6400 INFO ? openerp: OpenERP server is running, waiting for connections...
+2021-03-26 15:22:50,596 6400 INFO ? openerp.service.wsgi_server: HTTP service (werkzeug) running on 0.0.0.0:8069
+2021-03-27 07:35:41,131 5976 INFO ? openerp: OpenERP version 7.0-20150328
+2021-03-27 07:35:41,147 5976 INFO ? openerp: addons paths: H:\OpenERP 7.0-20150328\server\openerp\addons
+2021-03-27 07:35:41,147 5976 INFO ? openerp: database hostname: localhost
+2021-03-27 07:35:41,147 5976 INFO ? openerp: database port: 5432
+2021-03-27 07:35:41,147 5976 INFO ? openerp: database user: openpg
+2021-03-27 07:35:47,566 5976 WARNING ? openerp.addons.google_docs.google_docs: Please install latest gdata-python-client from http://code.google.com/p/gdata-python-client/downloads/list
+2021-03-27 07:35:53,003 5976 INFO ? openerp: OpenERP server is running, waiting for connections...
+2021-03-27 07:35:53,003 5976 INFO ? openerp.service.wsgi_server: HTTP service (werkzeug) running on 0.0.0.0:8069
+2021-03-27 16:42:39,831 6356 INFO ? openerp: OpenERP version 7.0-20150328
+2021-03-27 16:42:39,845 6356 INFO ? openerp: addons paths: H:\OpenERP 7.0-20150328\server\openerp\addons
+2021-03-27 16:42:39,845 6356 INFO ? openerp: database hostname: localhost
+2021-03-27 16:42:39,845 6356 INFO ? openerp: database port: 5432
+2021-03-27 16:42:39,845 6356 INFO ? openerp: database user: openpg
+2021-03-27 16:42:45,734 6356 WARNING ? openerp.addons.google_docs.google_docs: Please install latest gdata-python-client from http://code.google.com/p/gdata-python-client/downloads/list
+2021-03-27 16:42:50,358 6356 INFO ? openerp: OpenERP server is running, waiting for connections...
+2021-03-27 16:42:50,358 6356 INFO ? openerp.service.wsgi_server: HTTP service (werkzeug) running on 0.0.0.0:8069
